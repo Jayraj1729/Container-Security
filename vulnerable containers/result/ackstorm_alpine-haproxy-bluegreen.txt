@@ -1,0 +1,228 @@
+NAME                   INSTALLED  FIXED-IN          TYPE    VULNERABILITY        SEVERITY 
+Jinja2                 2.8        2.10.1            python  GHSA-462w-v97r-4m45  High      
+Jinja2                 2.8        2.11.3            python  GHSA-g3rq-g295-4j3m  Medium    
+Jinja2                 2.8        2.8.1             python  GHSA-hj2j-77xm-mc5v  High      
+bash                   4.3.42-r3  4.3.42-r5         apk     CVE-2016-9401        Medium    
+busybox                1.24.1-r7                    apk     CVE-2015-9261        Medium    
+busybox                1.24.1-r7                    apk     CVE-2016-2147        High      
+busybox                1.24.1-r7                    apk     CVE-2016-2148        Critical  
+busybox                1.24.1-r7                    apk     CVE-2018-1000500     High      
+busybox                1.24.1-r7                    apk     CVE-2018-1000517     Critical  
+busybox                1.24.1-r7                    apk     CVE-2018-20679       High      
+busybox                1.24.1-r7                    apk     CVE-2019-5747        High      
+busybox                1.24.1-r7                    apk     CVE-2021-42376       Medium    
+busybox                1.24.1-r7                    apk     CVE-2021-42378       High      
+busybox                1.24.1-r7                    apk     CVE-2021-42379       High      
+busybox                1.24.1-r7                    apk     CVE-2021-42381       High      
+busybox                1.24.1-r7                    apk     CVE-2021-42384       High      
+busybox                1.24.1-r7                    apk     CVE-2021-42385       High      
+busybox                1.24.1-r7                    apk     CVE-2021-42386       High      
+busybox                1.24.1-r7                    apk     CVE-2022-28391       High      
+busybox                1.24.1-r7  1.24.2-r1         apk     CVE-2016-6301        High      
+busybox                1.24.1-r7  1.24.2-r2         apk     CVE-2017-15873       Medium    
+busybox                1.24.1-r7  1.24.2-r2         apk     CVE-2017-16544       High      
+expat                  2.1.1-r0   2.2.0-r0          apk     CVE-2012-6702        Medium    
+expat                  2.1.1-r0   2.2.0-r0          apk     CVE-2016-5300        High      
+haproxy                1.6.2-r0                     apk     CVE-2016-2102        Medium    
+haproxy                1.6.2-r0                     apk     CVE-2018-10184       High      
+haproxy                1.6.2-r0                     apk     CVE-2018-14645       High      
+haproxy                1.6.2-r0                     apk     CVE-2018-20102       High      
+haproxy                1.6.2-r0                     apk     CVE-2018-20103       High      
+haproxy                1.6.2-r0                     apk     CVE-2019-14241       High      
+haproxy                1.6.2-r0                     apk     CVE-2019-18277       High      
+haproxy                1.6.2-r0                     apk     CVE-2019-19330       Critical  
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2016-8610        High      
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2019-1547        Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2019-1551        Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2019-1552        Low       
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2019-1559        Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2019-1563        Low       
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2020-1968        Low       
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2020-1971        Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2021-23840       High      
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2021-23841       Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2021-3712        High      
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2021-4160        Medium    
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2022-0778        High      
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2022-1292        Critical  
+libcrypto1.0           1.0.2g-r0                    apk     CVE-2022-2068        Critical  
+libcrypto1.0           1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2105        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2106        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2107        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2109        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2176        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r1         apk     CVE-2016-2177        Critical  
+libcrypto1.0           1.0.2g-r0  1.0.2h-r1         apk     CVE-2016-2178        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2h-r2         apk     CVE-2016-2180        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-2179        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-2182        Critical  
+libcrypto1.0           1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-6302        High      
+libcrypto1.0           1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-6303        Critical  
+libcrypto1.0           1.0.2g-r0  1.0.2h-r4         apk     CVE-2016-2181        High      
+libcrypto1.0           1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-2183        High      
+libcrypto1.0           1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-6304        High      
+libcrypto1.0           1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-6306        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2j-r0         apk     CVE-2016-7052        High      
+libcrypto1.0           1.0.2g-r0  1.0.2k-r0         apk     CVE-2016-7055        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2k-r0         apk     CVE-2017-3731        High      
+libcrypto1.0           1.0.2g-r0  1.0.2k-r0         apk     CVE-2017-3732        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2m-r0         apk     CVE-2017-3735        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2m-r0         apk     CVE-2017-3736        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2n-r0         apk     CVE-2017-3737        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2n-r0         apk     CVE-2017-3738        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2o-r0         apk     CVE-2018-0733        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2o-r0         apk     CVE-2018-0739        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2o-r1         apk     CVE-2018-0732        High      
+libcrypto1.0           1.0.2g-r0  1.0.2o-r1         apk     CVE-2018-0737        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2q-r0         apk     CVE-2018-0734        Medium    
+libcrypto1.0           1.0.2g-r0  1.0.2q-r0         apk     CVE-2018-5407        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2016-8610        High      
+libssl1.0              1.0.2g-r0                    apk     CVE-2019-1547        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2019-1551        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2019-1552        Low       
+libssl1.0              1.0.2g-r0                    apk     CVE-2019-1559        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2019-1563        Low       
+libssl1.0              1.0.2g-r0                    apk     CVE-2020-1968        Low       
+libssl1.0              1.0.2g-r0                    apk     CVE-2020-1971        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2021-23840       High      
+libssl1.0              1.0.2g-r0                    apk     CVE-2021-23841       Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2021-3712        High      
+libssl1.0              1.0.2g-r0                    apk     CVE-2021-4160        Medium    
+libssl1.0              1.0.2g-r0                    apk     CVE-2022-0778        High      
+libssl1.0              1.0.2g-r0                    apk     CVE-2022-1292        Critical  
+libssl1.0              1.0.2g-r0                    apk     CVE-2022-2068        Critical  
+libssl1.0              1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2105        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2106        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2107        Medium    
+libssl1.0              1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2109        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r0         apk     CVE-2016-2176        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r1         apk     CVE-2016-2177        Critical  
+libssl1.0              1.0.2g-r0  1.0.2h-r1         apk     CVE-2016-2178        Medium    
+libssl1.0              1.0.2g-r0  1.0.2h-r2         apk     CVE-2016-2180        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-2179        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-2182        Critical  
+libssl1.0              1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-6302        High      
+libssl1.0              1.0.2g-r0  1.0.2h-r3         apk     CVE-2016-6303        Critical  
+libssl1.0              1.0.2g-r0  1.0.2h-r4         apk     CVE-2016-2181        High      
+libssl1.0              1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-2183        High      
+libssl1.0              1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-6304        High      
+libssl1.0              1.0.2g-r0  1.0.2i-r0         apk     CVE-2016-6306        Medium    
+libssl1.0              1.0.2g-r0  1.0.2j-r0         apk     CVE-2016-7052        High      
+libssl1.0              1.0.2g-r0  1.0.2k-r0         apk     CVE-2016-7055        Medium    
+libssl1.0              1.0.2g-r0  1.0.2k-r0         apk     CVE-2017-3731        High      
+libssl1.0              1.0.2g-r0  1.0.2k-r0         apk     CVE-2017-3732        Medium    
+libssl1.0              1.0.2g-r0  1.0.2m-r0         apk     CVE-2017-3735        Medium    
+libssl1.0              1.0.2g-r0  1.0.2m-r0         apk     CVE-2017-3736        Medium    
+libssl1.0              1.0.2g-r0  1.0.2n-r0         apk     CVE-2017-3737        Medium    
+libssl1.0              1.0.2g-r0  1.0.2n-r0         apk     CVE-2017-3738        Medium    
+libssl1.0              1.0.2g-r0  1.0.2o-r0         apk     CVE-2018-0733        Medium    
+libssl1.0              1.0.2g-r0  1.0.2o-r0         apk     CVE-2018-0739        Medium    
+libssl1.0              1.0.2g-r0  1.0.2o-r1         apk     CVE-2018-0732        High      
+libssl1.0              1.0.2g-r0  1.0.2o-r1         apk     CVE-2018-0737        Medium    
+libssl1.0              1.0.2g-r0  1.0.2q-r0         apk     CVE-2018-0734        Medium    
+libssl1.0              1.0.2g-r0  1.0.2q-r0         apk     CVE-2018-5407        Medium    
+musl                   1.1.12-r4  1.1.12-r6         apk     CVE-2016-8859        Critical  
+musl                   1.1.12-r4  1.1.12-r8         apk     CVE-2017-15650       High      
+musl-utils             1.1.12-r4  1.1.12-r6         apk     CVE-2016-8859        Critical  
+musl-utils             1.1.12-r4  1.1.12-r8         apk     CVE-2017-15650       High      
+ncurses-libs           6.0-r6     6.0-r7            apk     CVE-2017-10684       Critical  
+ncurses-libs           6.0-r6     6.0-r7            apk     CVE-2017-10685       Critical  
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11112       High      
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11113       High      
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13728       High      
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13729       Medium    
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13730       Medium    
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13731       Medium    
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13732       Medium    
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13733       Medium    
+ncurses-libs           6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13734       Medium    
+ncurses-terminfo       6.0-r6     6.0-r7            apk     CVE-2017-10684       Critical  
+ncurses-terminfo       6.0-r6     6.0-r7            apk     CVE-2017-10685       Critical  
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11112       High      
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11113       High      
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13728       High      
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13729       Medium    
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13730       Medium    
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13731       Medium    
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13732       Medium    
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13733       Medium    
+ncurses-terminfo       6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13734       Medium    
+ncurses-terminfo-base  6.0-r6     6.0-r7            apk     CVE-2017-10684       Critical  
+ncurses-terminfo-base  6.0-r6     6.0-r7            apk     CVE-2017-10685       Critical  
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11112       High      
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-11113       High      
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13728       High      
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13729       Medium    
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13730       Medium    
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13731       Medium    
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13732       Medium    
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13733       Medium    
+ncurses-terminfo-base  6.0-r6     6.0_p20170701-r0  apk     CVE-2017-13734       Medium    
+pcre                   8.38-r1                      apk     CVE-2015-8391        Critical  
+pcre                   8.38-r1                      apk     CVE-2017-6004        High      
+pcre                   8.38-r1                      apk     CVE-2019-20838       High      
+pcre                   8.38-r1                      apk     CVE-2020-14155       Medium    
+python                 2.7.11-r3                    apk     CVE-2015-1283        Medium    
+python                 2.7.11-r3                    apk     CVE-2015-5652        High      
+python                 2.7.11-r3                    apk     CVE-2016-0718        Critical  
+python                 2.7.11-r3                    apk     CVE-2016-0772        Medium    
+python                 2.7.11-r3                    apk     CVE-2016-1000110     Medium    
+python                 2.7.11-r3                    apk     CVE-2016-2183        High      
+python                 2.7.11-r3                    apk     CVE-2016-4472        High      
+python                 2.7.11-r3                    apk     CVE-2016-5636        Critical  
+python                 2.7.11-r3                    apk     CVE-2016-9063        Critical  
+python                 2.7.11-r3                    apk     CVE-2017-1000158     Critical  
+python                 2.7.11-r3                    apk     CVE-2017-17522       High      
+python                 2.7.11-r3                    apk     CVE-2017-18207       Medium    
+python                 2.7.11-r3                    apk     CVE-2017-9233        High      
+python                 2.7.11-r3                    apk     CVE-2018-1000030     Low       
+python                 2.7.11-r3                    apk     CVE-2018-1000802     Critical  
+python                 2.7.11-r3                    apk     CVE-2018-1060        High      
+python                 2.7.11-r3                    apk     CVE-2018-1061        High      
+python                 2.7.11-r3                    apk     CVE-2018-14647       High      
+python                 2.7.11-r3                    apk     CVE-2018-20852       Medium    
+python                 2.7.11-r3                    apk     CVE-2019-10160       Critical  
+python                 2.7.11-r3                    apk     CVE-2019-13404       High      
+python                 2.7.11-r3                    apk     CVE-2019-15903       High      
+python                 2.7.11-r3                    apk     CVE-2019-16056       High      
+python                 2.7.11-r3                    apk     CVE-2019-16935       Medium    
+python                 2.7.11-r3                    apk     CVE-2019-18348       Medium    
+python                 2.7.11-r3                    apk     CVE-2019-5010        High      
+python                 2.7.11-r3                    apk     CVE-2019-9636        Critical  
+python                 2.7.11-r3                    apk     CVE-2019-9674        High      
+python                 2.7.11-r3                    apk     CVE-2019-9740        Medium    
+python                 2.7.11-r3                    apk     CVE-2019-9947        Medium    
+python                 2.7.11-r3                    apk     CVE-2019-9948        Critical  
+python                 2.7.11-r3                    apk     CVE-2020-8492        Medium    
+python                 2.7.11-r3                    apk     CVE-2021-23336       Medium    
+python                 2.7.11-r3                    apk     CVE-2021-3426        Medium    
+python                 2.7.11-r3                    apk     CVE-2021-3733        Medium    
+python                 2.7.11-r3                    apk     CVE-2022-0391        High      
+python                 2.7.11-r3                    apk     CVE-2022-26488       High      
+python                 2.7.11-r3                    apk     CVE-2022-45061       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2016-6153        Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2018-20346       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2018-20505       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2018-20506       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2018-8740        High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2019-16168       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2019-19645       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2019-19646       Critical  
+sqlite-libs            3.9.2-r0                     apk     CVE-2019-8457        Critical  
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-11655       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-11656       Critical  
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-13434       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-13435       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-13630       High      
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-13631       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-13632       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2020-15358       Medium    
+sqlite-libs            3.9.2-r0                     apk     CVE-2022-35737       High      
+sqlite-libs            3.9.2-r0   3.13.0-r1         apk     CVE-2017-10989       Critical  
+wget                   1.17.1-r0  1.17.1-r2         apk     CVE-2017-6508        Medium    
+zlib                   1.2.8-r2                     apk     CVE-2018-25032       High      
+zlib                   1.2.8-r2                     apk     CVE-2022-37434       Critical  
+zlib                   1.2.8-r2   1.2.11-r0         apk     CVE-2016-9840        High      
+zlib                   1.2.8-r2   1.2.11-r0         apk     CVE-2016-9841        Critical  
+zlib                   1.2.8-r2   1.2.11-r0         apk     CVE-2016-9842        High      
+zlib                   1.2.8-r2   1.2.11-r0         apk     CVE-2016-9843        Critical  

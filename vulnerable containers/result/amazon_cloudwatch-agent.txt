@@ -1,0 +1,4 @@
+NAME                              INSTALLED                              FIXED-IN  TYPE       VULNERABILITY        SEVERITY 
+github.com/containerd/containerd  v1.6.8                                 1.6.12    go-module  GHSA-2qjp-425j-52j9  Medium    
+github.com/kardianos/service      v1.2.1                                           go-module  GHSA-xm99-6pv5-q363  High      
+github.com/prometheus/prometheus  v0.35.1-0.20220503184552-2381d7be5731            go-module  CVE-2019-3826        Medium    

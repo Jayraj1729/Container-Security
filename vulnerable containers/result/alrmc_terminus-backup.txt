@@ -1,0 +1,151 @@
+NAME                   INSTALLED         FIXED-IN          TYPE          VULNERABILITY        SEVERITY 
+apk-tools              2.12.1-r0         2.12.5-r0         apk           CVE-2021-30139       High      
+apk-tools              2.12.1-r0         2.12.6-r0         apk           CVE-2021-36159       Critical  
+busybox                1.32.1-r2         1.32.1-r4         apk           CVE-2021-28831       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42374       Medium    
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42375       Medium    
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42378       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42379       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42380       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42381       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42382       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42383       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42384       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42385       High      
+busybox                1.32.1-r2         1.32.1-r7         apk           CVE-2021-42386       High      
+busybox                1.32.1-r2         1.32.1-r8         apk           CVE-2022-28391       High      
+busybox                1.32.1-r2         1.32.1-r9         apk           CVE-2022-30065       High      
+curl                   7.74.0-r0         7.76.0-r0         apk           CVE-2021-22876       Medium    
+curl                   7.74.0-r0         7.76.0-r0         apk           CVE-2021-22890       Low       
+curl                   7.74.0-r0         7.77.0-r0         apk           CVE-2021-22898       Low       
+curl                   7.74.0-r0         7.77.0-r0         apk           CVE-2021-22901       High      
+curl                   7.74.0-r0         7.78.0-r0         apk           CVE-2021-22922       Medium    
+curl                   7.74.0-r0         7.78.0-r0         apk           CVE-2021-22923       Medium    
+curl                   7.74.0-r0         7.78.0-r0         apk           CVE-2021-22924       Low       
+curl                   7.74.0-r0         7.78.0-r0         apk           CVE-2021-22925       Medium    
+curl                   7.74.0-r0         7.79.0-r0         apk           CVE-2021-22945       Critical  
+curl                   7.74.0-r0         7.79.0-r0         apk           CVE-2021-22946       High      
+curl                   7.74.0-r0         7.79.0-r0         apk           CVE-2021-22947       Medium    
+curl                   7.74.0-r0         7.79.1-r1         apk           CVE-2022-22576       High      
+curl                   7.74.0-r0         7.79.1-r1         apk           CVE-2022-27774       Medium    
+curl                   7.74.0-r0         7.79.1-r1         apk           CVE-2022-27775       High      
+curl                   7.74.0-r0         7.79.1-r1         apk           CVE-2022-27776       Medium    
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-27781       High      
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-27782       High      
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-32205       Medium    
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-32206       Medium    
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-32207       Critical  
+curl                   7.74.0-r0         7.79.1-r2         apk           CVE-2022-32208       Medium    
+curl                   7.74.0-r0         7.79.1-r3         apk           CVE-2022-35252       Low       
+gopkg.in/yaml.v2       v2.2.2            2.2.3             go-module     GHSA-r88r-gmrh-7j83  Medium    
+gopkg.in/yaml.v2       v2.2.2            2.2.4             go-module     GHSA-6q6q-88xp-6f2r  High      
+gopkg.in/yaml.v2       v2.2.2            2.2.8             go-module     GHSA-wxc4-f4m6-wwqv  Medium    
+guzzlehttp/guzzle      7.2.0             7.4.3             php-composer  GHSA-cwmx-hcrq-mhc3  High      
+guzzlehttp/guzzle      7.2.0             7.4.4             php-composer  GHSA-f2wf-25xc-69c9  High      
+guzzlehttp/guzzle      7.2.0             7.4.4             php-composer  GHSA-w248-ffj2-4v5q  High      
+guzzlehttp/guzzle      7.2.0             7.4.5             php-composer  GHSA-25mq-v84q-4j7r  High      
+guzzlehttp/guzzle      7.2.0             7.4.5             php-composer  GHSA-q559-8m2m-g699  High      
+guzzlehttp/psr7        1.7.0             1.8.4             php-composer  GHSA-q7rv-6hp3-vh96  High      
+libcrypto1.1           1.1.1i-r0                           apk           CVE-2021-4160        Medium    
+libcrypto1.1           1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23839       Low       
+libcrypto1.1           1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23840       High      
+libcrypto1.1           1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23841       Medium    
+libcrypto1.1           1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3449        Medium    
+libcrypto1.1           1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3450        High      
+libcrypto1.1           1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3711        Critical  
+libcrypto1.1           1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3712        High      
+libcrypto1.1           1.1.1i-r0         1.1.1n-r0         apk           CVE-2022-0778        High      
+libcrypto1.1           1.1.1i-r0         1.1.1q-r0         apk           CVE-2022-2097        Medium    
+libcurl                7.74.0-r0         7.76.0-r0         apk           CVE-2021-22876       Medium    
+libcurl                7.74.0-r0         7.76.0-r0         apk           CVE-2021-22890       Low       
+libcurl                7.74.0-r0         7.77.0-r0         apk           CVE-2021-22898       Low       
+libcurl                7.74.0-r0         7.77.0-r0         apk           CVE-2021-22901       High      
+libcurl                7.74.0-r0         7.78.0-r0         apk           CVE-2021-22922       Medium    
+libcurl                7.74.0-r0         7.78.0-r0         apk           CVE-2021-22923       Medium    
+libcurl                7.74.0-r0         7.78.0-r0         apk           CVE-2021-22924       Low       
+libcurl                7.74.0-r0         7.78.0-r0         apk           CVE-2021-22925       Medium    
+libcurl                7.74.0-r0         7.79.0-r0         apk           CVE-2021-22945       Critical  
+libcurl                7.74.0-r0         7.79.0-r0         apk           CVE-2021-22946       High      
+libcurl                7.74.0-r0         7.79.0-r0         apk           CVE-2021-22947       Medium    
+libcurl                7.74.0-r0         7.79.1-r1         apk           CVE-2022-22576       High      
+libcurl                7.74.0-r0         7.79.1-r1         apk           CVE-2022-27774       Medium    
+libcurl                7.74.0-r0         7.79.1-r1         apk           CVE-2022-27775       High      
+libcurl                7.74.0-r0         7.79.1-r1         apk           CVE-2022-27776       Medium    
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-27781       High      
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-27782       High      
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-32205       Medium    
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-32206       Medium    
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-32207       Critical  
+libcurl                7.74.0-r0         7.79.1-r2         apk           CVE-2022-32208       Medium    
+libcurl                7.74.0-r0         7.79.1-r3         apk           CVE-2022-35252       Low       
+libssl1.1              1.1.1i-r0                           apk           CVE-2021-4160        Medium    
+libssl1.1              1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23839       Low       
+libssl1.1              1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23840       High      
+libssl1.1              1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23841       Medium    
+libssl1.1              1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3449        Medium    
+libssl1.1              1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3450        High      
+libssl1.1              1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3711        Critical  
+libssl1.1              1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3712        High      
+libssl1.1              1.1.1i-r0         1.1.1n-r0         apk           CVE-2022-0778        High      
+libssl1.1              1.1.1i-r0         1.1.1q-r0         apk           CVE-2022-2097        Medium    
+libxml2                2.9.10-r6         2.9.10-r7         apk           CVE-2021-3517        High      
+libxml2                2.9.10-r6         2.9.10-r7         apk           CVE-2021-3518        High      
+libxml2                2.9.10-r6         2.9.10-r7         apk           CVE-2021-3537        Medium    
+libxml2                2.9.10-r6         2.9.11-r0         apk           CVE-2021-3541        Medium    
+libxml2                2.9.10-r6         2.9.13-r0         apk           CVE-2022-23308       High      
+libxml2                2.9.10-r6         2.9.14-r0         apk           CVE-2022-29824       Medium    
+libxml2                2.9.10-r6         2.9.14-r1         apk           CVE-2022-2309        High      
+libxml2                2.9.10-r6         2.9.14-r2         apk           CVE-2022-40303       High      
+libxml2                2.9.10-r6         2.9.14-r2         apk           CVE-2022-40304       High      
+ncurses-libs           6.2_p20210109-r0  6.2_p20210109-r1  apk           CVE-2022-29458       High      
+ncurses-terminfo-base  6.2_p20210109-r0  6.2_p20210109-r1  apk           CVE-2022-29458       High      
+openssl                1.1.1i-r0                           apk           CVE-2021-4160        Medium    
+openssl                1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23839       Low       
+openssl                1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23840       High      
+openssl                1.1.1i-r0         1.1.1j-r0         apk           CVE-2021-23841       Medium    
+openssl                1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3449        Medium    
+openssl                1.1.1i-r0         1.1.1k-r0         apk           CVE-2021-3450        High      
+openssl                1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3711        Critical  
+openssl                1.1.1i-r0         1.1.1l-r0         apk           CVE-2021-3712        High      
+openssl                1.1.1i-r0         1.1.1n-r0         apk           CVE-2022-0778        High      
+openssl                1.1.1i-r0         1.1.1q-r0         apk           CVE-2022-2097        Medium    
+php-cli                7.4.14                              binary        CVE-2007-2728        Medium    
+php-cli                7.4.14                              binary        CVE-2007-3205        Medium    
+php-cli                7.4.14                              binary        CVE-2007-4596        High      
+php-cli                7.4.14                              binary        CVE-2017-8923        Critical  
+php-cli                7.4.14                              binary        CVE-2017-9118        High      
+php-cli                7.4.14                              binary        CVE-2017-9120        Critical  
+php-cli                7.4.14                              binary        CVE-2021-21702       High      
+php-cli                7.4.14                              binary        CVE-2021-21703       High      
+php-cli                7.4.14                              binary        CVE-2021-21704       Medium    
+php-cli                7.4.14                              binary        CVE-2021-21705       Medium    
+php-cli                7.4.14                              binary        CVE-2021-21706       Medium    
+php-cli                7.4.14                              binary        CVE-2021-21707       Medium    
+php-cli                7.4.14                              binary        CVE-2021-21708       Critical  
+php-cli                7.4.14                              binary        CVE-2022-31625       High      
+php-cli                7.4.14                              binary        CVE-2022-31626       High      
+php-cli                7.4.14                              binary        CVE-2022-31628       Medium    
+php-cli                7.4.14                              binary        CVE-2022-31629       Medium    
+php-cli                7.4.14                              binary        CVE-2022-31630       High      
+php-cli                7.4.14                              binary        CVE-2022-37454       Critical  
+sqlite-libs            3.34.1-r0                           apk           CVE-2021-20227       Medium    
+sqlite-libs            3.34.1-r0                           apk           CVE-2022-35737       High      
+ssl_client             1.32.1-r2         1.32.1-r4         apk           CVE-2021-28831       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42374       Medium    
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42375       Medium    
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42378       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42379       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42380       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42381       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42382       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42383       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42384       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42385       High      
+ssl_client             1.32.1-r2         1.32.1-r7         apk           CVE-2021-42386       High      
+ssl_client             1.32.1-r2         1.32.1-r8         apk           CVE-2022-28391       High      
+ssl_client             1.32.1-r2         1.32.1-r9         apk           CVE-2022-30065       High      
+tar                    1.33-r1           1.34-r0           apk           CVE-2021-20193       Medium    
+xz                     5.2.5-r0          5.2.5-r1          apk           CVE-2022-1271        High      
+xz-libs                5.2.5-r0          5.2.5-r1          apk           CVE-2022-1271        High      
+zlib                   1.2.11-r3         1.2.12-r0         apk           CVE-2018-25032       High      
+zlib                   1.2.11-r3         1.2.12-r2         apk           CVE-2022-37434       Critical  

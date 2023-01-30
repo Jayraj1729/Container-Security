@@ -1,0 +1,8 @@
+NAME                              INSTALLED  FIXED-IN   TYPE       VULNERABILITY        SEVERITY 
+curl                              7.83.1-r4  7.83.1-r5  apk        CVE-2022-43551       High      
+curl                              7.83.1-r4  7.83.1-r5  apk        CVE-2022-43552       Unknown   
+git                               2.36.3-r0  2.36.4-r0  apk        CVE-2022-23521       Critical  
+git                               2.36.3-r0  2.36.4-r0  apk        CVE-2022-41903       Critical  
+github.com/containerd/containerd  v1.6.6     1.6.12     go-module  GHSA-2qjp-425j-52j9  Medium    
+libcurl                           7.83.1-r4  7.83.1-r5  apk        CVE-2022-43551       High      
+libcurl                           7.83.1-r4  7.83.1-r5  apk        CVE-2022-43552       Unknown   

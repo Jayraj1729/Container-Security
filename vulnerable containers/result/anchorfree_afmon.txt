@@ -1,0 +1,54 @@
+NAME                   INSTALLED  FIXED-IN   TYPE  VULNERABILITY     SEVERITY 
+busybox                1.27.2-r7             apk   CVE-2015-9261     Medium    
+busybox                1.27.2-r7             apk   CVE-2018-1000500  High      
+busybox                1.27.2-r7             apk   CVE-2018-1000517  Critical  
+busybox                1.27.2-r7             apk   CVE-2018-20679    High      
+busybox                1.27.2-r7             apk   CVE-2019-5747     High      
+busybox                1.27.2-r7             apk   CVE-2021-42374    Medium    
+busybox                1.27.2-r7             apk   CVE-2021-42376    Medium    
+busybox                1.27.2-r7             apk   CVE-2021-42378    High      
+busybox                1.27.2-r7             apk   CVE-2021-42379    High      
+busybox                1.27.2-r7             apk   CVE-2021-42381    High      
+busybox                1.27.2-r7             apk   CVE-2021-42382    High      
+busybox                1.27.2-r7             apk   CVE-2021-42384    High      
+busybox                1.27.2-r7             apk   CVE-2021-42385    High      
+busybox                1.27.2-r7             apk   CVE-2021-42386    High      
+busybox                1.27.2-r7             apk   CVE-2022-28391    High      
+curl                   7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000120  Critical  
+curl                   7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000121  High      
+curl                   7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000122  Critical  
+curl                   7.58.0-r0  7.60.0-r0  apk   CVE-2018-1000300  Critical  
+curl                   7.58.0-r0  7.60.0-r0  apk   CVE-2018-1000301  Critical  
+curl                   7.58.0-r0  7.61.0-r0  apk   CVE-2018-0500     Critical  
+curl                   7.58.0-r0  7.61.1-r0  apk   CVE-2018-14618    Critical  
+curl                   7.58.0-r0  7.61.1-r1  apk   CVE-2018-16839    Critical  
+curl                   7.58.0-r0  7.61.1-r1  apk   CVE-2018-16840    Critical  
+curl                   7.58.0-r0  7.61.1-r1  apk   CVE-2018-16842    Critical  
+curl                   7.58.0-r0  7.61.1-r2  apk   CVE-2018-16890    High      
+curl                   7.58.0-r0  7.61.1-r2  apk   CVE-2019-3822     Critical  
+curl                   7.58.0-r0  7.61.1-r2  apk   CVE-2019-3823     High      
+curl                   7.58.0-r0  7.61.1-r3  apk   CVE-2019-5481     Critical  
+curl                   7.58.0-r0  7.61.1-r3  apk   CVE-2019-5482     Critical  
+libcurl                7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000120  Critical  
+libcurl                7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000121  High      
+libcurl                7.58.0-r0  7.59.0-r0  apk   CVE-2018-1000122  Critical  
+libcurl                7.58.0-r0  7.60.0-r0  apk   CVE-2018-1000300  Critical  
+libcurl                7.58.0-r0  7.60.0-r0  apk   CVE-2018-1000301  Critical  
+libcurl                7.58.0-r0  7.61.0-r0  apk   CVE-2018-0500     Critical  
+libcurl                7.58.0-r0  7.61.1-r0  apk   CVE-2018-14618    Critical  
+libcurl                7.58.0-r0  7.61.1-r1  apk   CVE-2018-16839    Critical  
+libcurl                7.58.0-r0  7.61.1-r1  apk   CVE-2018-16840    Critical  
+libcurl                7.58.0-r0  7.61.1-r1  apk   CVE-2018-16842    Critical  
+libcurl                7.58.0-r0  7.61.1-r2  apk   CVE-2018-16890    High      
+libcurl                7.58.0-r0  7.61.1-r2  apk   CVE-2019-3822     Critical  
+libcurl                7.58.0-r0  7.61.1-r2  apk   CVE-2019-3823     High      
+libcurl                7.58.0-r0  7.61.1-r3  apk   CVE-2019-5481     Critical  
+libcurl                7.58.0-r0  7.61.1-r3  apk   CVE-2019-5482     Critical  
+libressl2.6-libcrypto  2.6.3-r0   2.6.5-r0   apk   CVE-2018-0495     Medium    
+libressl2.6-libcrypto  2.6.3-r0   2.6.5-r0   apk   CVE-2018-0732     High      
+libressl2.6-libssl     2.6.3-r0   2.6.5-r0   apk   CVE-2018-0495     Medium    
+libressl2.6-libssl     2.6.3-r0   2.6.5-r0   apk   CVE-2018-0732     High      
+musl                   1.1.18-r2  1.1.18-r4  apk   CVE-2019-14697    Critical  
+musl-utils             1.1.18-r2  1.1.18-r4  apk   CVE-2019-14697    Critical  
+zlib                   1.2.11-r1             apk   CVE-2018-25032    High      
+zlib                   1.2.11-r1             apk   CVE-2022-37434    Critical  

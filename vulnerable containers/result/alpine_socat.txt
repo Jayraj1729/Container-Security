@@ -1,0 +1,3 @@
+NAME        INSTALLED  FIXED-IN  TYPE  VULNERABILITY  SEVERITY 
+libcrypto3  3.0.7-r0   3.0.7-r2  apk   CVE-2022-3996  High      
+libssl3     3.0.7-r0   3.0.7-r2  apk   CVE-2022-3996  High      

@@ -1,0 +1,930 @@
+NAME                         INSTALLED                FIXED-IN                  TYPE          VULNERABILITY        SEVERITY 
+audit-libs                   2.8.5-4.el7              (won't fix)               rpm           CVE-2015-5186        Medium    
+bash                         4.2.46-35.el7_9          (won't fix)               rpm           CVE-2012-6711        Medium    
+bash                         4.2.46-35.el7_9          (won't fix)               rpm           CVE-2019-18276       Low       
+bind-license                 32:9.11.4-26.P2.el7_9.8                            rpm           CVE-2022-3094        Medium    
+bind-license                 32:9.11.4-26.P2.el7_9.8  (won't fix)               rpm           CVE-2013-5661        Low       
+bind-license                 32:9.11.4-26.P2.el7_9.8  (won't fix)               rpm           CVE-2016-6170        Low       
+bind-license                 32:9.11.4-26.P2.el7_9.8  32:9.11.4-26.P2.el7_9.10  rpm           CVE-2022-38177       High      
+bind-license                 32:9.11.4-26.P2.el7_9.8  32:9.11.4-26.P2.el7_9.10  rpm           CVE-2022-38178       High      
+bind-license                 32:9.11.4-26.P2.el7_9.8  32:9.11.4-26.P2.el7_9.13  rpm           CVE-2021-25220       Medium    
+bind-license                 32:9.11.4-26.P2.el7_9.8  32:9.11.4-26.P2.el7_9.13  rpm           CVE-2022-2795        Medium    
+binutils                     2.27-44.base.el7_9.1                               rpm           CVE-2014-9939        Low       
+binutils                     2.27-44.base.el7_9.1                               rpm           CVE-2019-17450       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2015-8538        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-2226        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4487        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4488        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4489        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4490        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4491        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4492        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2016-4493        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12449       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12451       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12452       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12453       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12454       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12455       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12456       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12457       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12458       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12799       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-12967       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-13710       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-13716       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-13757       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14128       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14129       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14130       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14529       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14729       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14745       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14930       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14932       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14933       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14934       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14938       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14939       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14940       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-14974       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15020       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15021       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15022       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15023       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15024       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15025       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15225       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15938       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15939       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-15996       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16826       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16827       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16828       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16829       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16830       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16831       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-16832       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17080       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17121       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17122       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17123       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17124       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17125       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-17126       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-6965        Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-6966        Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-6969        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7209        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7210        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7223        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7224        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7225        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7226        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7227        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7299        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7300        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7301        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7302        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7303        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7304        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-7614        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8392        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8393        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8394        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8395        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8396        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8397        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8398        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-8421        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9038        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9039        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9040        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9041        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9042        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9043        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9044        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9742        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9743        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9744        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9745        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9746        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9747        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9748        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9749        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9750        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9751        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9752        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9753        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9754        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9755        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9756        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9954        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2017-9955        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-12698       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-12699       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-12700       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-12934       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-17360       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-17794       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-17985       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18483       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18484       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18605       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18606       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18607       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18700       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-18701       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-19932       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-20002       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-20657       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-20673       Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-6323        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-6759        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2018-6872        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-1010204     Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-12972       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-14250       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-17451       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-9074        Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-9075        Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2019-9077        Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-16598       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-35493       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-35494       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-35495       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-35496       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2020-35507       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2021-20197       Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2021-3826        Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2021-45078       Medium    
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2022-38533       Low       
+binutils                     2.27-44.base.el7_9.1     (won't fix)               rpm           CVE-2022-4285        Medium    
+bzip2-libs                   1.0.6-13.el7             (won't fix)               rpm           CVE-2016-3189        Low       
+bzip2-libs                   1.0.6-13.el7             (won't fix)               rpm           CVE-2019-12900       Low       
+commons-io                   2.3                                                java-archive  CVE-2021-29425       Medium    
+commons-io                   2.3                      2.7                       java-archive  GHSA-gwrp-pvrq-jmwv  Medium    
+coreutils                    8.22-24.el7_9.2                                    rpm           CVE-2015-4041        Low       
+coreutils                    8.22-24.el7_9.2                                    rpm           CVE-2015-4042        Low       
+coreutils                    8.22-24.el7_9.2          (won't fix)               rpm           CVE-2014-9471        Low       
+coreutils                    8.22-24.el7_9.2          (won't fix)               rpm           CVE-2016-2781        Medium    
+coreutils                    8.22-24.el7_9.2          (won't fix)               rpm           CVE-2017-18018       Medium    
+cpio                         2.11-28.el7              (won't fix)               rpm           CVE-2015-1197        Low       
+cpio                         2.11-28.el7              (won't fix)               rpm           CVE-2016-2037        Low       
+cracklib                     2.9.0-11.el7             (won't fix)               rpm           CVE-2016-6318        Low       
+cracklib-dicts               2.9.0-11.el7             (won't fix)               rpm           CVE-2016-6318        Low       
+cron-utils                   9.1.3                    9.1.6                     java-archive  GHSA-p9m8-27x8-rg87  Critical  
+curl                         7.29.0-59.el7_9.1                                  rpm           CVE-2021-22946       Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2015-3153        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-0755        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8615        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8616        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8617        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8618        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8619        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8621        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8622        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8623        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8624        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8625        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-9586        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-1000100     Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-1000254     Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-7407        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-8817        Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2018-20483       Medium    
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2020-8231        Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2021-22925       Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2022-35252       Low       
+curl                         7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2022-43552       Low       
+cxf-core                     3.4.0                                              java-archive  CVE-2020-13954       Medium    
+cxf-core                     3.4.0                                              java-archive  CVE-2021-22696       High      
+cxf-core                     3.4.0                                              java-archive  CVE-2021-30468       High      
+cxf-core                     3.4.0                                              java-archive  CVE-2022-46363       High      
+cxf-core                     3.4.0                                              java-archive  CVE-2022-46364       Critical  
+cxf-core                     3.4.0                    3.4.10                    java-archive  GHSA-3w37-5p3p-jv92  Medium    
+cxf-core                     3.4.0                    3.4.10                    java-archive  GHSA-x3x3-qwjq-8gj4  Critical  
+cxf-rt-rs-json-basic         3.4.0                                              java-archive  CVE-2020-13954       Medium    
+cxf-rt-rs-json-basic         3.4.0                                              java-archive  CVE-2021-22696       High      
+cxf-rt-rs-json-basic         3.4.0                                              java-archive  CVE-2021-30468       High      
+cxf-rt-rs-json-basic         3.4.0                                              java-archive  CVE-2022-46363       High      
+cxf-rt-rs-json-basic         3.4.0                                              java-archive  CVE-2022-46364       Critical  
+cxf-rt-rs-security-jose      3.4.0                                              java-archive  CVE-2020-13954       Medium    
+cxf-rt-rs-security-jose      3.4.0                                              java-archive  CVE-2021-22696       High      
+cxf-rt-rs-security-jose      3.4.0                                              java-archive  CVE-2021-30468       High      
+cxf-rt-rs-security-jose      3.4.0                                              java-archive  CVE-2022-46363       High      
+cxf-rt-rs-security-jose      3.4.0                                              java-archive  CVE-2022-46364       Critical  
+cxf-rt-security              3.4.0                                              java-archive  CVE-2020-13954       Medium    
+cxf-rt-security              3.4.0                                              java-archive  CVE-2021-22696       High      
+cxf-rt-security              3.4.0                                              java-archive  CVE-2021-30468       High      
+cxf-rt-security              3.4.0                                              java-archive  CVE-2022-46363       High      
+cxf-rt-security              3.4.0                                              java-archive  CVE-2022-46364       Critical  
+cyrus-sasl-lib               2.1.26-23.el7            (won't fix)               rpm           CVE-2019-19906       Medium    
+cyrus-sasl-lib               2.1.26-23.el7            0:2.1.26-24.el7_9         rpm           CVE-2022-24407       High      
+dbus                         1:1.10.24-15.el7                                   rpm           CVE-2014-3637        Low       
+dbus                         1:1.10.24-15.el7                                   rpm           CVE-2014-3638        Low       
+dbus                         1:1.10.24-15.el7                                   rpm           CVE-2014-3639        Low       
+dbus                         1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3477        Medium    
+dbus                         1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3532        Medium    
+dbus                         1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3533        Medium    
+dbus                         1:1.10.24-15.el7         (won't fix)               rpm           CVE-2015-0245        Low       
+dbus                         1:1.10.24-15.el7         (won't fix)               rpm           CVE-2020-35512       Low       
+dbus-libs                    1:1.10.24-15.el7                                   rpm           CVE-2014-3637        Low       
+dbus-libs                    1:1.10.24-15.el7                                   rpm           CVE-2014-3638        Low       
+dbus-libs                    1:1.10.24-15.el7                                   rpm           CVE-2014-3639        Low       
+dbus-libs                    1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3477        Medium    
+dbus-libs                    1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3532        Medium    
+dbus-libs                    1:1.10.24-15.el7         (won't fix)               rpm           CVE-2014-3533        Medium    
+dbus-libs                    1:1.10.24-15.el7         (won't fix)               rpm           CVE-2015-0245        Low       
+dbus-libs                    1:1.10.24-15.el7         (won't fix)               rpm           CVE-2020-35512       Low       
+device-mapper                7:1.02.170-6.el7_9.5     (won't fix)               rpm           CVE-2020-8991        Low       
+device-mapper-libs           7:1.02.170-6.el7_9.5     (won't fix)               rpm           CVE-2020-8991        Low       
+dracut                       033-572.el7              (won't fix)               rpm           CVE-2016-4484        Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2019-7611        High      
+elasticsearch                1.13.2.0                                           java-archive  CVE-2019-7614        Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2020-7019        Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2020-7020        Low       
+elasticsearch                1.13.2.0                                           java-archive  CVE-2020-7021        Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2021-22135       Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2021-22137       Medium    
+elasticsearch                1.13.2.0                                           java-archive  CVE-2021-22144       Medium    
+elasticsearch                7.10.2                                             java-archive  CVE-2021-22134       Medium    
+elasticsearch                7.10.2                                             java-archive  CVE-2021-22144       Medium    
+elasticsearch                7.10.2                                             java-archive  CVE-2021-22145       Medium    
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2016-10254       Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2016-10255       Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7607        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7608        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7609        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7610        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7611        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7612        Low       
+elfutils-default-yama-scope  0.176-5.el7              (won't fix)               rpm           CVE-2017-7613        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2016-10254       Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2016-10255       Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7607        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7608        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7609        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7610        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7611        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7612        Low       
+elfutils-libelf              0.176-5.el7              (won't fix)               rpm           CVE-2017-7613        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2016-10254       Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2016-10255       Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7607        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7608        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7609        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7610        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7611        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7612        Low       
+elfutils-libs                0.176-5.el7              (won't fix)               rpm           CVE-2017-7613        Low       
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2012-6702        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2013-0340        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2013-0341        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2016-4472        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2016-5300        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2016-9063        Low       
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2017-9233        Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2022-23990       Medium    
+expat                        2.1.0-12.el7             (won't fix)               rpm           CVE-2022-43680       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2021-45960       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2021-46143       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22822       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22823       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22824       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22825       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22826       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-22827       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-23852       Medium    
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-25235       High      
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-25236       High      
+expat                        2.1.0-12.el7             0:2.1.0-14.el7_9          rpm           CVE-2022-25315       High      
+expat                        2.1.0-12.el7             0:2.1.0-15.el7_9          rpm           CVE-2022-40674       High      
+file-libs                    5.11-37.el7              (won't fix)               rpm           CVE-2014-9620        Low       
+file-libs                    5.11-37.el7              (won't fix)               rpm           CVE-2015-8865        Low       
+geronimo-jta_1.1_spec        1.1.1                                              java-archive  CVE-2008-0732        Low       
+geronimo-jta_1.1_spec        1.1.1                                              java-archive  CVE-2011-5034        High      
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-2327        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-2328        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-3217        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-5073        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8385        High      
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8386        Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8387        Unknown   
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8388        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8390        Unknown   
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8391        Medium    
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2015-8394        Unknown   
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2016-3191        High      
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2017-11164       Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2017-7244        Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2017-7245        Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2017-7246        Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2018-16429       Low       
+glib2                        2.56.1-9.el7_9           (won't fix)               rpm           CVE-2019-13012       Low       
+glibc                        2.17-325.el7_9                                     rpm           CVE-2009-5155        Medium    
+glibc                        2.17-325.el7_9                                     rpm           CVE-2015-8982        Low       
+glibc                        2.17-325.el7_9                                     rpm           CVE-2015-8983        Medium    
+glibc                        2.17-325.el7_9                                     rpm           CVE-2015-8984        Low       
+glibc                        2.17-325.el7_9                                     rpm           CVE-2015-8985        Low       
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2014-4043        Low       
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2016-10228       Low       
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2016-1234        Medium    
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2016-4429        Medium    
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2017-15671       Low       
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2017-8804        Medium    
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2019-1010022     Unknown   
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2019-9169        Medium    
+glibc                        2.17-325.el7_9           (won't fix)               rpm           CVE-2020-1752        Medium    
+glibc-common                 2.17-325.el7_9                                     rpm           CVE-2009-5155        Medium    
+glibc-common                 2.17-325.el7_9                                     rpm           CVE-2015-8982        Low       
+glibc-common                 2.17-325.el7_9                                     rpm           CVE-2015-8983        Medium    
+glibc-common                 2.17-325.el7_9                                     rpm           CVE-2015-8984        Low       
+glibc-common                 2.17-325.el7_9                                     rpm           CVE-2015-8985        Low       
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2014-4043        Low       
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2016-10228       Low       
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2016-1234        Medium    
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2016-4429        Medium    
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2017-15671       Low       
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2017-8804        Medium    
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2019-1010022     Unknown   
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2019-9169        Medium    
+glibc-common                 2.17-325.el7_9           (won't fix)               rpm           CVE-2020-1752        Medium    
+gmp                          1:6.0.0-15.el7           (won't fix)               rpm           CVE-2021-43618       Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2014-3591        Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2014-4617        Medium    
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2015-0837        Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2015-1606        Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2015-1607        Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2018-9234        Low       
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2019-13050       Medium    
+gnupg2                       2.0.22-5.el7_5           (won't fix)               rpm           CVE-2022-3219        Low       
+gpgme                        1.3.2-5.el7              (won't fix)               rpm           CVE-2014-3564        Low       
+gson                         2.8.6                                              java-archive  CVE-2022-25647       High      
+gson                         2.8.6                    2.8.9                     java-archive  GHSA-4jrv-ppp4-jm57  High      
+guava                        15.0                                               java-archive  CVE-2018-10237       Medium    
+guava                        15.0                                               java-archive  CVE-2020-8908        Low       
+guava                        15.0                                               java-archive  GHSA-5mg8-w23w-74h3  Low       
+guava                        15.0                     24.1.1                    java-archive  GHSA-mvr2-9pj6-7w5j  Medium    
+guava                        19.0                                               java-archive  CVE-2018-10237       Medium    
+guava                        19.0                                               java-archive  CVE-2020-8908        Low       
+guava                        19.0                                               java-archive  GHSA-5mg8-w23w-74h3  Low       
+guava                        19.0                     24.1.1                    java-archive  GHSA-mvr2-9pj6-7w5j  Medium    
+guava                        25.1-jre                                           java-archive  CVE-2020-8908        Low       
+guava                        25.1-jre                                           java-archive  GHSA-5mg8-w23w-74h3  Low       
+guava                        28.2-jre                                           java-archive  CVE-2020-8908        Low       
+guava                        28.2-jre                                           java-archive  GHSA-5mg8-w23w-74h3  Low       
+guava                        29.0-jre                                           java-archive  CVE-2020-8908        Low       
+guava                        29.0-jre                                           java-archive  GHSA-5mg8-w23w-74h3  Low       
+gzip                         1.5-10.el7               0:1.5-11.el7_9            rpm           CVE-2022-1271        High      
+httpclient                   4.5.10                                             java-archive  CVE-2020-13956       Medium    
+httpclient                   4.5.10                   4.5.13                    java-archive  GHSA-7r82-7xv7-xcpj  Medium    
+httpclient                   4.5.3                                              java-archive  CVE-2020-13956       Medium    
+httpclient                   4.5.3                    4.5.13                    java-archive  GHSA-7r82-7xv7-xcpj  Medium    
+iproute                      4.11.0-30.el7            (won't fix)               rpm           CVE-2019-20795       Low       
+jackson-databind             2.10.4                                             java-archive  CVE-2020-25649       High      
+jackson-databind             2.10.4                                             java-archive  CVE-2020-36518       High      
+jackson-databind             2.10.4                                             java-archive  CVE-2022-42003       High      
+jackson-databind             2.10.4                                             java-archive  CVE-2022-42004       High      
+jackson-databind             2.10.4                   2.10.5.1                  java-archive  GHSA-288c-cq4h-88gq  High      
+jackson-databind             2.10.4                   2.12.6.1                  java-archive  GHSA-57j2-w4cx-62h2  High      
+jackson-databind             2.10.4                   2.12.7.1                  java-archive  GHSA-jjjh-jjxp-wpff  High      
+jackson-databind             2.10.4                   2.12.7.1                  java-archive  GHSA-rgv9-q543-rqg4  High      
+jackson-databind             2.10.5.1                                           java-archive  CVE-2020-36518       High      
+jackson-databind             2.10.5.1                                           java-archive  CVE-2022-42003       High      
+jackson-databind             2.10.5.1                                           java-archive  CVE-2022-42004       High      
+jackson-databind             2.10.5.1                 2.12.6.1                  java-archive  GHSA-57j2-w4cx-62h2  High      
+jackson-databind             2.10.5.1                 2.12.7.1                  java-archive  GHSA-jjjh-jjxp-wpff  High      
+jackson-databind             2.10.5.1                 2.12.7.1                  java-archive  GHSA-rgv9-q543-rqg4  High      
+jackson-databind             2.11.2                                             java-archive  CVE-2020-36518       High      
+jackson-databind             2.11.2                                             java-archive  CVE-2022-42003       High      
+jackson-databind             2.11.2                                             java-archive  CVE-2022-42004       High      
+jackson-databind             2.11.2                   2.12.6.1                  java-archive  GHSA-57j2-w4cx-62h2  High      
+jackson-databind             2.11.2                   2.12.7.1                  java-archive  GHSA-jjjh-jjxp-wpff  High      
+jackson-databind             2.11.2                   2.12.7.1                  java-archive  GHSA-rgv9-q543-rqg4  High      
+jackson-databind             2.11.4                                             java-archive  CVE-2020-36518       High      
+jackson-databind             2.11.4                                             java-archive  CVE-2022-42003       High      
+jackson-databind             2.11.4                                             java-archive  CVE-2022-42004       High      
+jackson-databind             2.11.4                   2.12.6.1                  java-archive  GHSA-57j2-w4cx-62h2  High      
+jackson-databind             2.11.4                   2.12.7.1                  java-archive  GHSA-jjjh-jjxp-wpff  High      
+jackson-databind             2.11.4                   2.12.7.1                  java-archive  GHSA-rgv9-q543-rqg4  High      
+java                         15.0.1+9                                           binary        CVE-2021-2161        Medium    
+java                         15.0.1+9                                           binary        CVE-2021-2163        Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21248       Low       
+java                         15.0.1+9                                           binary        CVE-2022-21277       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21282       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21283       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21291       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21293       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21294       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21296       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21299       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21305       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21340       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21341       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21360       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21365       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21366       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21540       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-21541       Medium    
+java                         15.0.1+9                                           binary        CVE-2022-34169       High      
+json-c                       0.11-4.el7_0             (won't fix)               rpm           CVE-2020-12762       Medium    
+json-smart                   2.3                      2.3.1                     java-archive  GHSA-v528-7hrm-frqp  Critical  
+kpartx                       0.4.9-135.el7_9          0:0.4.9-136.el7_9         rpm           CVE-2022-41974       High      
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2014-5351        Medium    
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2015-2695        Medium    
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2015-2696        Medium    
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2015-2697        Medium    
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2017-11462       Low       
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2017-15088       Medium    
+krb5-libs                    1.15.1-51.el7_9          (won't fix)               rpm           CVE-2020-17049       Medium    
+krb5-libs                    1.15.1-51.el7_9          0:1.15.1-55.el7_9         rpm           CVE-2022-42898       High      
+libblkid                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2014-9114        Medium    
+libblkid                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2015-5218        Low       
+libblkid                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2016-2779        Medium    
+libcom_err                   1.42.9-19.el7            (won't fix)               rpm           CVE-2015-0247        Medium    
+libcom_err                   1.42.9-19.el7            (won't fix)               rpm           CVE-2015-1572        Low       
+libcurl                      7.29.0-59.el7_9.1                                  rpm           CVE-2021-22946       Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2015-3153        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-0755        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8615        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8616        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8617        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8618        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8619        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8621        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8622        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8623        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8624        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-8625        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2016-9586        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-1000100     Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-1000254     Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-7407        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2017-8817        Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2018-20483       Medium    
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2020-8231        Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2021-22925       Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2022-35252       Low       
+libcurl                      7.29.0-59.el7_9.1        (won't fix)               rpm           CVE-2022-43552       Low       
+libdb                        5.3.21-25.el7            (won't fix)               rpm           CVE-2017-10140       Medium    
+libdb                        5.3.21-25.el7            (won't fix)               rpm           CVE-2019-2708        Low       
+libdb-utils                  5.3.21-25.el7            (won't fix)               rpm           CVE-2017-10140       Medium    
+libdb-utils                  5.3.21-25.el7            (won't fix)               rpm           CVE-2019-2708        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2014-5044        Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2015-5276        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-2226        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4487        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4488        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4489        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4490        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4491        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4492        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4493        Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2018-20657       Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2018-20673       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2019-14250       Low       
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2019-16276       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2020-16845       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2020-24553       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2021-42574       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2021-42694       Medium    
+libgcc                       4.8.5-44.el7             (won't fix)               rpm           CVE-2022-27943       Low       
+libgcrypt                    1.5.3-14.el7             (won't fix)               rpm           CVE-2014-3591        Low       
+libgcrypt                    1.5.3-14.el7             (won't fix)               rpm           CVE-2014-5270        Medium    
+libgcrypt                    1.5.3-14.el7             (won't fix)               rpm           CVE-2015-0837        Low       
+libgcrypt                    1.5.3-14.el7             (won't fix)               rpm           CVE-2017-7526        Medium    
+libgcrypt                    1.5.3-14.el7             (won't fix)               rpm           CVE-2019-12904       Medium    
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2015-2059        Low       
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2015-8948        Low       
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2016-6261        Low       
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2016-6262        Low       
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2016-6263        Low       
+libidn                       1.28-4.el7               (won't fix)               rpm           CVE-2017-14062       Low       
+libmount                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2014-9114        Medium    
+libmount                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2015-5218        Low       
+libmount                     2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2016-2779        Medium    
+libpcap                      14:1.5.3-12.el7          (won't fix)               rpm           CVE-2019-15165       Low       
+libsepol                     2.5-10.el7                                         rpm           CVE-2021-36084       Medium    
+libsepol                     2.5-10.el7                                         rpm           CVE-2021-36085       Medium    
+libsepol                     2.5-10.el7                                         rpm           CVE-2021-36086       Medium    
+libsepol                     2.5-10.el7                                         rpm           CVE-2021-36087       Medium    
+libsmartcols                 2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2014-9114        Medium    
+libsmartcols                 2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2015-5218        Low       
+libsmartcols                 2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2016-2779        Medium    
+libssh2                      1.8.0-4.el7              (won't fix)               rpm           CVE-2019-13115       Medium    
+libssh2                      1.8.0-4.el7              (won't fix)               rpm           CVE-2019-3859        Medium    
+libssh2                      1.8.0-4.el7              (won't fix)               rpm           CVE-2019-3860        Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2014-5044        Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2015-5276        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-2226        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4487        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4488        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4489        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4490        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4491        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4492        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2016-4493        Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2018-20657       Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2018-20673       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2019-14250       Low       
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2019-16276       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2020-16845       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2020-24553       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2021-42574       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2021-42694       Medium    
+libstdc++                    4.8.5-44.el7             (won't fix)               rpm           CVE-2022-27943       Low       
+libtasn1                     4.10-1.el7               (won't fix)               rpm           CVE-2016-4008        Medium    
+libtasn1                     4.10-1.el7               (won't fix)               rpm           CVE-2017-10790       Low       
+libtasn1                     4.10-1.el7               (won't fix)               rpm           CVE-2017-6891        Low       
+libtasn1                     4.10-1.el7               (won't fix)               rpm           CVE-2018-1000654     Low       
+libtasn1                     4.10-1.el7               (won't fix)               rpm           CVE-2018-6003        Medium    
+libuuid                      2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2014-9114        Medium    
+libuuid                      2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2015-5218        Low       
+libuuid                      2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2016-2779        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2016-4483        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2016-9318        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-0663        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-16931       Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-16932       Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-5969        Low       
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-7375        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-8872        Low       
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9047        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9048        Low       
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9049        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9050        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2020-24977       Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2021-3541        Medium    
+libxml2                      2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2022-29824       Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2016-4483        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2016-9318        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-0663        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-16931       Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-16932       Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-5969        Low       
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-7375        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-8872        Low       
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9047        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9048        Low       
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9049        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2017-9050        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2020-24977       Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2021-3541        Medium    
+libxml2-python               2.9.1-6.el7_9.6          (won't fix)               rpm           CVE-2022-29824       Medium    
+log4j-api                    2.11.1                                             java-archive  CVE-2020-9488        Low       
+log4j-api                    2.11.1                                             java-archive  CVE-2021-44832       Medium    
+log4j-api                    2.11.1                                             java-archive  CVE-2021-45105       Medium    
+log4j-api                    2.13.0                                             java-archive  CVE-2020-9488        Low       
+log4j-api                    2.13.0                                             java-archive  CVE-2021-44832       Medium    
+log4j-api                    2.13.0                                             java-archive  CVE-2021-45105       Medium    
+log4j-core                   2.11.1                                             java-archive  CVE-2020-9488        Low       
+log4j-core                   2.11.1                                             java-archive  CVE-2021-44228       Critical  
+log4j-core                   2.11.1                                             java-archive  CVE-2021-44832       Medium    
+log4j-core                   2.11.1                                             java-archive  CVE-2021-45046       Critical  
+log4j-core                   2.11.1                                             java-archive  CVE-2021-45105       Medium    
+log4j-core                   2.11.1                   2.12.2                    java-archive  GHSA-7rjr-3q55-vv33  Critical  
+log4j-core                   2.11.1                   2.12.2                    java-archive  GHSA-jfh8-c2jp-5v3q  Critical  
+log4j-core                   2.11.1                   2.12.3                    java-archive  GHSA-p6xc-xr62-6r2g  High      
+log4j-core                   2.11.1                   2.12.4                    java-archive  GHSA-8489-44mv-ggj8  Medium    
+log4j-core                   2.11.1                   2.13.2                    java-archive  GHSA-vwqq-5vrc-xw9h  Low       
+log4j-core                   2.13.0                                             java-archive  CVE-2020-9488        Low       
+log4j-core                   2.13.0                                             java-archive  CVE-2021-44228       Critical  
+log4j-core                   2.13.0                                             java-archive  CVE-2021-44832       Medium    
+log4j-core                   2.13.0                                             java-archive  CVE-2021-45046       Critical  
+log4j-core                   2.13.0                                             java-archive  CVE-2021-45105       Medium    
+log4j-core                   2.13.0                   2.13.2                    java-archive  GHSA-vwqq-5vrc-xw9h  Low       
+log4j-core                   2.13.0                   2.15.0                    java-archive  GHSA-jfh8-c2jp-5v3q  Critical  
+log4j-core                   2.13.0                   2.16.0                    java-archive  GHSA-7rjr-3q55-vv33  Critical  
+log4j-core                   2.13.0                   2.17.0                    java-archive  GHSA-p6xc-xr62-6r2g  High      
+log4j-core                   2.13.0                   2.17.1                    java-archive  GHSA-8489-44mv-ggj8  Medium    
+log4j-slf4j-impl             2.11.1                                             java-archive  CVE-2020-9488        Low       
+log4j-slf4j-impl             2.11.1                                             java-archive  CVE-2021-44832       Medium    
+log4j-slf4j-impl             2.11.1                                             java-archive  CVE-2021-45105       Medium    
+lua                          5.1.4-15.el7             (won't fix)               rpm           CVE-2014-5461        Medium    
+lua                          5.1.4-15.el7             (won't fix)               rpm           CVE-2021-43519       Medium    
+lz4                          1.8.3-1.el7              (won't fix)               rpm           CVE-2019-17543       Medium    
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10684       Medium    
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10685       Medium    
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11112       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11113       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13728       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13729       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13730       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13731       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13732       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13733       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13734       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-16879       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-10754       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19211       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19217       Low       
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17594       Medium    
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17595       Medium    
+ncurses                      5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2021-39537       Medium    
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10684       Medium    
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10685       Medium    
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11112       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11113       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13728       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13729       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13730       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13731       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13732       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13733       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13734       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-16879       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-10754       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19211       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19217       Low       
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17594       Medium    
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17595       Medium    
+ncurses-base                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2021-39537       Medium    
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10684       Medium    
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-10685       Medium    
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11112       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-11113       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13728       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13729       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13730       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13731       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13732       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13733       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-13734       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2017-16879       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-10754       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19211       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2018-19217       Low       
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17594       Medium    
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2019-17595       Medium    
+ncurses-libs                 5.9-14.20130511.el7_4    (won't fix)               rpm           CVE-2021-39537       Medium    
+netty-codec                  4.1.45.Final             4.1.68.Final              java-archive  GHSA-9vjp-v76f-g363  High      
+netty-codec                  4.1.45.Final             4.1.68.Final              java-archive  GHSA-grg4-wf29-r9vv  High      
+netty-codec                  4.1.49.Final             4.1.68.Final              java-archive  GHSA-9vjp-v76f-g363  High      
+netty-codec                  4.1.49.Final             4.1.68.Final              java-archive  GHSA-grg4-wf29-r9vv  High      
+netty-codec-http             4.1.45.Final             4.1.59.Final              java-archive  GHSA-5mcr-gq6c-3hq2  Medium    
+netty-codec-http             4.1.45.Final             4.1.71.Final              java-archive  GHSA-wx5j-54mm-rqqq  Medium    
+netty-codec-http             4.1.45.Final             4.1.77.Final              java-archive  GHSA-269q-hmxg-m83q  Medium    
+netty-codec-http             4.1.49.Final             4.1.59.Final              java-archive  GHSA-5mcr-gq6c-3hq2  Medium    
+netty-codec-http             4.1.49.Final             4.1.71.Final              java-archive  GHSA-wx5j-54mm-rqqq  Medium    
+netty-codec-http             4.1.49.Final             4.1.77.Final              java-archive  GHSA-269q-hmxg-m83q  Medium    
+netty-codec-http2            4.1.45.Final             4.1.60.Final              java-archive  GHSA-wm47-8v5p-wjpj  Medium    
+netty-codec-http2            4.1.45.Final             4.1.61.Final              java-archive  GHSA-f256-j965-7f32  Medium    
+netty-handler                4.1.45.Final             4.1.46                    java-archive  GHSA-mm9x-g8pc-w292  High      
+nspr                         4.32.0-1.el7_9           (won't fix)               rpm           CVE-2016-1951        Medium    
+nss                          3.67.0-4.el7_9                                     rpm           CVE-2015-2808        Medium    
+nss                          3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-2183        Medium    
+nss                          3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9074        Medium    
+nss                          3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9574        Medium    
+nss                          3.67.0-4.el7_9           (won't fix)               rpm           CVE-2018-18508       Medium    
+nss                          3.67.0-4.el7_9           (won't fix)               rpm           CVE-2020-12413       Low       
+nss-softokn                  3.67.0-3.el7_9           (won't fix)               rpm           CVE-2015-2613        Medium    
+nss-softokn                  3.67.0-3.el7_9           (won't fix)               rpm           CVE-2016-1938        Low       
+nss-softokn                  3.67.0-3.el7_9           (won't fix)               rpm           CVE-2017-7781        Medium    
+nss-softokn-freebl           3.67.0-3.el7_9           (won't fix)               rpm           CVE-2015-2613        Medium    
+nss-softokn-freebl           3.67.0-3.el7_9           (won't fix)               rpm           CVE-2016-1938        Low       
+nss-softokn-freebl           3.67.0-3.el7_9           (won't fix)               rpm           CVE-2017-7781        Medium    
+nss-sysinit                  3.67.0-4.el7_9                                     rpm           CVE-2015-2808        Medium    
+nss-sysinit                  3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-2183        Medium    
+nss-sysinit                  3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9074        Medium    
+nss-sysinit                  3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9574        Medium    
+nss-sysinit                  3.67.0-4.el7_9           (won't fix)               rpm           CVE-2018-18508       Medium    
+nss-sysinit                  3.67.0-4.el7_9           (won't fix)               rpm           CVE-2020-12413       Low       
+nss-tools                    3.67.0-4.el7_9                                     rpm           CVE-2015-2808        Medium    
+nss-tools                    3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-2183        Medium    
+nss-tools                    3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9074        Medium    
+nss-tools                    3.67.0-4.el7_9           (won't fix)               rpm           CVE-2016-9574        Medium    
+nss-tools                    3.67.0-4.el7_9           (won't fix)               rpm           CVE-2018-18508       Medium    
+nss-tools                    3.67.0-4.el7_9           (won't fix)               rpm           CVE-2020-12413       Low       
+openldap                     2.4.44-24.el7_9          (won't fix)               rpm           CVE-2016-4984        Low       
+openldap                     2.4.44-24.el7_9          (won't fix)               rpm           CVE-2019-13057       Medium    
+openldap                     2.4.44-24.el7_9          (won't fix)               rpm           CVE-2019-13565       Medium    
+openldap                     2.4.44-24.el7_9          (won't fix)               rpm           CVE-2020-15719       Low       
+openldap                     2.4.44-24.el7_9          (won't fix)               rpm           CVE-2021-27212       Medium    
+openldap                     2.4.44-24.el7_9          0:2.4.44-25.el7_9         rpm           CVE-2020-25709       Medium    
+openldap                     2.4.44-24.el7_9          0:2.4.44-25.el7_9         rpm           CVE-2020-25710       Medium    
+openssl-libs                 1:1.0.2k-22.el7_9                                  rpm           CVE-2015-2808        Medium    
+openssl-libs                 1:1.0.2k-22.el7_9        (won't fix)               rpm           CVE-2019-1547        Medium    
+openssl-libs                 1:1.0.2k-22.el7_9        (won't fix)               rpm           CVE-2019-1551        Low       
+openssl-libs                 1:1.0.2k-22.el7_9        (won't fix)               rpm           CVE-2019-1563        Low       
+openssl-libs                 1:1.0.2k-22.el7_9        (won't fix)               rpm           CVE-2020-1968        Low       
+openssl-libs                 1:1.0.2k-22.el7_9        (won't fix)               rpm           CVE-2022-3358        Low       
+openssl-libs                 1:1.0.2k-22.el7_9        1:1.0.2k-23.el7_9         rpm           CVE-2021-3712        Medium    
+openssl-libs                 1:1.0.2k-22.el7_9        1:1.0.2k-25.el7_9         rpm           CVE-2022-0778        High      
+p11-kit                      0.23.5-3.el7             (won't fix)               rpm           CVE-2020-29361       Medium    
+p11-kit                      0.23.5-3.el7             (won't fix)               rpm           CVE-2020-29362       Medium    
+p11-kit-trust                0.23.5-3.el7             (won't fix)               rpm           CVE-2020-29361       Medium    
+p11-kit-trust                0.23.5-3.el7             (won't fix)               rpm           CVE-2020-29362       Medium    
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8380        Unknown   
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8382        Low       
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8387        Unknown   
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8390        Unknown   
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8393        Unknown   
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2015-8394        Unknown   
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-11164       Low       
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-6004        Medium    
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-7186        Medium    
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-7244        Low       
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-7245        Low       
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2017-7246        Low       
+pcre                         8.32-17.el7              (won't fix)               rpm           CVE-2020-14155       Low       
+procps-ng                    3.3.10-28.el7            (won't fix)               rpm           CVE-2018-1121        Low       
+procps-ng                    3.3.10-28.el7            (won't fix)               rpm           CVE-2018-1123        Low       
+procps-ng                    3.3.10-28.el7            (won't fix)               rpm           CVE-2018-1125        Low       
+protobuf-java                3.11.0                                             java-archive  CVE-2021-22569       Medium    
+protobuf-java                3.11.0                                             java-archive  CVE-2021-22570       Medium    
+protobuf-java                3.11.0                                             java-archive  CVE-2022-3171        High      
+protobuf-java                3.11.0                   3.16.1                    java-archive  GHSA-wrvw-hg22-4m67  High      
+protobuf-java                3.11.0                   3.16.3                    java-archive  GHSA-4gg5-vx3j-xwc7  High      
+protobuf-java                3.11.0                   3.16.3                    java-archive  GHSA-g5ww-5jh7-63cx  High      
+protobuf-java                3.11.0                   3.16.3                    java-archive  GHSA-h4h5-3hr4-j3g2  Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2013-1664        Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2013-1665        Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2013-7040        Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2017-1000158     Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2018-1000030     Low       
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2019-18348       Medium    
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2019-9674        Low       
+python                       2.7.5-90.el7             (won't fix)               rpm           CVE-2020-8492        Medium    
+python                       2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2020-26116       Medium    
+python                       2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2020-26137       Medium    
+python                       2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2021-3177        Medium    
+python-ipaddress             1.0.16-2.el7             (won't fix)               rpm           CVE-2020-14422       Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2013-1664        Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2013-1665        Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2013-7040        Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2017-1000158     Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2018-1000030     Low       
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2019-18348       Medium    
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2019-9674        Low       
+python-libs                  2.7.5-90.el7             (won't fix)               rpm           CVE-2020-8492        Medium    
+python-libs                  2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2020-26116       Medium    
+python-libs                  2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2020-26137       Medium    
+python-libs                  2.7.5-90.el7             0:2.7.5-92.el7_9          rpm           CVE-2021-3177        Medium    
+python-setuptools            0.9.8-7.el7              (won't fix)               rpm           CVE-2022-40897       Medium    
+readline                     6.2-11.el7               (won't fix)               rpm           CVE-2016-7091        Low       
+rpm                          4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7500        Medium    
+rpm                          4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7501        Medium    
+rpm                          4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35937       Medium    
+rpm                          4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35938       Medium    
+rpm                          4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35939       Medium    
+rpm-build-libs               4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7500        Medium    
+rpm-build-libs               4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7501        Medium    
+rpm-build-libs               4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35937       Medium    
+rpm-build-libs               4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35938       Medium    
+rpm-build-libs               4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35939       Medium    
+rpm-libs                     4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7500        Medium    
+rpm-libs                     4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7501        Medium    
+rpm-libs                     4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35937       Medium    
+rpm-libs                     4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35938       Medium    
+rpm-libs                     4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35939       Medium    
+rpm-python                   4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7500        Medium    
+rpm-python                   4.11.3-48.el7_9          (won't fix)               rpm           CVE-2017-7501        Medium    
+rpm-python                   4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35937       Medium    
+rpm-python                   4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35938       Medium    
+rpm-python                   4.11.3-48.el7_9          (won't fix)               rpm           CVE-2021-35939       Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2014-9512        Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2017-15994       Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2017-16548       Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2017-17433       Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2017-17434       Medium    
+rsync                        3.1.2-10.el7             (won't fix)               rpm           CVE-2018-5764        Medium    
+rsync                        3.1.2-10.el7             0:3.1.2-11.el7_9          rpm           CVE-2022-29154       High      
+setuptools                   0.9.8                                              python        CVE-2022-40897       Medium    
+setuptools                   0.9.8                    65.5.1                    python        GHSA-r9hx-vwmv-q579  High      
+snakeyaml                    1.26                                               java-archive  GHSA-mjmj-j48q-9wg2  High      
+snakeyaml                    1.26                     1.31                      java-archive  GHSA-3mc7-4q67-w48m  High      
+snakeyaml                    1.26                     1.31                      java-archive  GHSA-98wm-3w3q-mw94  Medium    
+snakeyaml                    1.26                     1.31                      java-archive  GHSA-c4r9-r8fh-9vj2  Medium    
+snakeyaml                    1.26                     1.31                      java-archive  GHSA-hhhw-99gj-p3c3  Medium    
+snakeyaml                    1.26                     1.32                      java-archive  GHSA-9w3m-gqgf-c4p9  Medium    
+snakeyaml                    1.26                     1.32                      java-archive  GHSA-w37g-rhq8-7m4j  Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2016-1000027     Critical  
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2020-5421        Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2021-22060       Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2021-22096       Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2021-22118       High      
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2022-22950       Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2022-22965       Critical  
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2022-22968       Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2022-22970       Medium    
+spring-core                  5.2.5.RELEASE                                      java-archive  CVE-2022-22971       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2015-7036        Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2016-6153        Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2017-10989       Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2017-13685       Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2017-15286       Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2017-7000        Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2018-8740        Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-13751       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-13752       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-13753       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-19244       Low       
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-19603       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-19645       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-19880       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-19924       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-20218       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-5827        High      
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2019-8457        Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2020-13435       Medium    
+sqlite                       3.7.17-8.el7_7.1         (won't fix)               rpm           CVE-2020-13631       Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2013-4392        Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2016-6349        Low       
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2017-18078       Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2018-6954        Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2019-3842        Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2020-13776       Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2021-3997        Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2022-4415        Medium    
+systemd                      219-78.el7_9.3           (won't fix)               rpm           CVE-2022-45873       Medium    
+systemd                      219-78.el7_9.3           0:219-78.el7_9.7          rpm           CVE-2022-2526        High      
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2013-4392        Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2016-6349        Low       
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2017-18078       Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2018-6954        Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2019-3842        Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2020-13776       Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2021-3997        Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2022-4415        Medium    
+systemd-libs                 219-78.el7_9.3           (won't fix)               rpm           CVE-2022-45873       Medium    
+systemd-libs                 219-78.el7_9.3           0:219-78.el7_9.7          rpm           CVE-2022-2526        High      
+tar                          2:1.26-35.el7            (won't fix)               rpm           CVE-2005-2541        Medium    
+tar                          2:1.26-35.el7            (won't fix)               rpm           CVE-2016-6321        Medium    
+tar                          2:1.26-35.el7            (won't fix)               rpm           CVE-2018-20482       Low       
+tar                          2:1.26-35.el7            (won't fix)               rpm           CVE-2019-9923        Low       
+tar                          2:1.26-35.el7            (won't fix)               rpm           CVE-2021-20193       Medium    
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2014-9913        Low       
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2015-7696        Medium    
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2015-7697        Medium    
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2016-9844        Low       
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2018-1000035     Low       
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2021-4217        Low       
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2022-0529        Low       
+unzip                        6.0-22.el7_9             (won't fix)               rpm           CVE-2022-0530        Low       
+util-linux                   2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2014-9114        Medium    
+util-linux                   2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2015-5218        Low       
+util-linux                   2.23.2-65.el7_9.1        (won't fix)               rpm           CVE-2016-2779        Medium    
+velocity                     1.7                                                java-archive  GHSA-59j4-wjwp-mw9m  High      
+vim-minimal                  2:7.4.629-8.el7_9                                  rpm           CVE-2023-0288        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2017-1000382     Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2017-11109       Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2017-17087       Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2017-5953        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2017-6350        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2019-20807       Medium    
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2021-3903        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2021-3927        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2021-3974        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2021-4166        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2021-46059       Unknown   
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-0351        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-1619        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-1720        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2124        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2125        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2126        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2129        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2175        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2182        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2183        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2206        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2207        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2208        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2210        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2284        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2285        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2286        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2287        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2343        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2344        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2345        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2817        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2819        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2845        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2849        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2862        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2889        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2923        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2946        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-2980        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3037        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3153        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3234        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3235        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3256        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3296        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3352        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-3705        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2022-4292        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2023-0049        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2023-0051        Low       
+vim-minimal                  2:7.4.629-8.el7_9        (won't fix)               rpm           CVE-2023-0054        Low       
+wget                         1.14-18.el7_6.1          (won't fix)               rpm           CVE-2017-6508        Low       
+wget                         1.14-18.el7_6.1          (won't fix)               rpm           CVE-2021-31879       Medium    
+woodstox-core                6.2.1                    6.4.0                     java-archive  GHSA-3f7h-mf4q-vrm4  Low       
+xmlsec                       2.2.0                    2.2.3                     java-archive  GHSA-j8wc-gxx9-82hx  High      
+xz                           5.2.2-1.el7              0:5.2.2-2.el7_9           rpm           CVE-2022-1271        High      
+xz-libs                      5.2.2-1.el7              0:5.2.2-2.el7_9           rpm           CVE-2022-1271        High      
+zlib                         1.2.7-19.el7_9                                     rpm           CVE-2022-37434       Medium    
+zlib                         1.2.7-19.el7_9           0:1.2.7-20.el7_9          rpm           CVE-2018-25032       High      

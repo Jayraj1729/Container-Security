@@ -1,0 +1,8 @@
+NAME          INSTALLED  FIXED-IN   TYPE  VULNERABILITY   SEVERITY 
+libcrypto1.1  1.1.1n-r0             apk   CVE-2022-2068   Critical  
+libcrypto1.1  1.1.1n-r0             apk   CVE-2022-2097   Medium    
+libssl1.1     1.1.1n-r0             apk   CVE-2022-2068   Critical  
+libssl1.1     1.1.1n-r0             apk   CVE-2022-2097   Medium    
+openssl       1.1.1o-r0             apk   CVE-2022-2068   Critical  
+openssl       1.1.1o-r0             apk   CVE-2022-2097   Medium    
+zlib          1.2.12-r0  1.2.12-r2  apk   CVE-2022-37434  Critical  

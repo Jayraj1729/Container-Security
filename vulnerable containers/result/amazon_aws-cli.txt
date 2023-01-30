@@ -1,0 +1,9 @@
+NAME    INSTALLED  FIXED-IN  TYPE    VULNERABILITY   SEVERITY 
+python  3.9.11               binary  CVE-2007-4559   Medium    
+python  3.9.11               binary  CVE-2015-20107  High      
+python  3.9.11               binary  CVE-2018-25032  High      
+python  3.9.11               binary  CVE-2020-10735  High      
+python  3.9.11               binary  CVE-2021-28861  High      
+python  3.9.11               binary  CVE-2022-37454  Critical  
+python  3.9.11               binary  CVE-2022-42919  High      
+python  3.9.11               binary  CVE-2022-45061  High      

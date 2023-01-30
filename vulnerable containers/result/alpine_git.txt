@@ -1,0 +1,8 @@
+NAME           INSTALLED  FIXED-IN   TYPE  VULNERABILITY   SEVERITY 
+git            2.36.3-r0  2.36.4-r0  apk   CVE-2022-23521  Critical  
+git            2.36.3-r0  2.36.4-r0  apk   CVE-2022-41903  Critical  
+gnupg-gpgconf  2.2.35-r4             apk   CVE-2022-3515   Critical  
+gpg            2.2.35-r4             apk   CVE-2022-3515   Critical  
+libcurl        7.83.1-r4  7.83.1-r5  apk   CVE-2022-43551  High      
+libcurl        7.83.1-r4  7.83.1-r5  apk   CVE-2022-43552  Unknown   
+sqlite-libs    3.38.5-r0             apk   CVE-2022-46908  High      

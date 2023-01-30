@@ -1,0 +1,93 @@
+NAME          INSTALLED  FIXED-IN   TYPE  VULNERABILITY   SEVERITY 
+apk-tools     2.10.4-r2  2.10.6-r0  apk   CVE-2021-30139  High      
+apk-tools     2.10.4-r2  2.10.7-r0  apk   CVE-2021-36159  Critical  
+busybox       1.30.1-r2             apk   CVE-2021-42374  Medium    
+busybox       1.30.1-r2             apk   CVE-2021-42376  Medium    
+busybox       1.30.1-r2             apk   CVE-2021-42378  High      
+busybox       1.30.1-r2             apk   CVE-2021-42379  High      
+busybox       1.30.1-r2             apk   CVE-2021-42380  High      
+busybox       1.30.1-r2             apk   CVE-2021-42381  High      
+busybox       1.30.1-r2             apk   CVE-2021-42382  High      
+busybox       1.30.1-r2             apk   CVE-2021-42384  High      
+busybox       1.30.1-r2             apk   CVE-2021-42385  High      
+busybox       1.30.1-r2             apk   CVE-2021-42386  High      
+busybox       1.30.1-r2             apk   CVE-2022-28391  High      
+busybox       1.30.1-r2  1.30.1-r5  apk   CVE-2021-28831  High      
+expat         2.2.7-r0   2.2.7-r1   apk   CVE-2019-15903  High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1348   Low       
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1349   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1350   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1351   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1352   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1353   Critical  
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1354   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-1387   High      
+git           2.22.0-r0  2.22.2-r0  apk   CVE-2019-19604  High      
+git           2.22.0-r0  2.22.3-r0  apk   CVE-2020-5260   High      
+git           2.22.0-r0  2.22.4-r0  apk   CVE-2020-11008  High      
+git           2.22.0-r0  2.22.5-r0  apk   CVE-2021-21300  High      
+libcrypto1.1  1.1.1c-r0             apk   CVE-2021-3711   Critical  
+libcrypto1.1  1.1.1c-r0             apk   CVE-2021-3712   High      
+libcrypto1.1  1.1.1c-r0             apk   CVE-2021-4160   Medium    
+libcrypto1.1  1.1.1c-r0             apk   CVE-2022-0778   High      
+libcrypto1.1  1.1.1c-r0             apk   CVE-2022-1292   Critical  
+libcrypto1.1  1.1.1c-r0             apk   CVE-2022-2068   Critical  
+libcrypto1.1  1.1.1c-r0             apk   CVE-2022-2097   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1547   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1549   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1563   Low       
+libcrypto1.1  1.1.1c-r0  1.1.1d-r2  apk   CVE-2019-1551   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1g-r0  apk   CVE-2020-1967   High      
+libcrypto1.1  1.1.1c-r0  1.1.1i-r0  apk   CVE-2020-1971   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23839  Low       
+libcrypto1.1  1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23840  High      
+libcrypto1.1  1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23841  Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1k-r0  apk   CVE-2021-3449   Medium    
+libcrypto1.1  1.1.1c-r0  1.1.1k-r0  apk   CVE-2021-3450   High      
+libcurl       7.65.1-r0  7.66.0-r0  apk   CVE-2019-5481   Critical  
+libcurl       7.65.1-r0  7.66.0-r0  apk   CVE-2019-5482   Critical  
+libcurl       7.65.1-r0  7.66.0-r1  apk   CVE-2020-8169   High      
+libcurl       7.65.1-r0  7.66.0-r1  apk   CVE-2020-8177   High      
+libcurl       7.65.1-r0  7.66.0-r2  apk   CVE-2020-8231   High      
+libcurl       7.65.1-r0  7.66.0-r3  apk   CVE-2020-8285   High      
+libcurl       7.65.1-r0  7.66.0-r3  apk   CVE-2020-8286   High      
+libcurl       7.65.1-r0  7.66.0-r4  apk   CVE-2021-22898  Low       
+libssl1.1     1.1.1c-r0             apk   CVE-2021-3711   Critical  
+libssl1.1     1.1.1c-r0             apk   CVE-2021-3712   High      
+libssl1.1     1.1.1c-r0             apk   CVE-2021-4160   Medium    
+libssl1.1     1.1.1c-r0             apk   CVE-2022-0778   High      
+libssl1.1     1.1.1c-r0             apk   CVE-2022-1292   Critical  
+libssl1.1     1.1.1c-r0             apk   CVE-2022-2068   Critical  
+libssl1.1     1.1.1c-r0             apk   CVE-2022-2097   Medium    
+libssl1.1     1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1547   Medium    
+libssl1.1     1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1549   Medium    
+libssl1.1     1.1.1c-r0  1.1.1d-r0  apk   CVE-2019-1563   Low       
+libssl1.1     1.1.1c-r0  1.1.1d-r2  apk   CVE-2019-1551   Medium    
+libssl1.1     1.1.1c-r0  1.1.1g-r0  apk   CVE-2020-1967   High      
+libssl1.1     1.1.1c-r0  1.1.1i-r0  apk   CVE-2020-1971   Medium    
+libssl1.1     1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23839  Low       
+libssl1.1     1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23840  High      
+libssl1.1     1.1.1c-r0  1.1.1j-r0  apk   CVE-2021-23841  Medium    
+libssl1.1     1.1.1c-r0  1.1.1k-r0  apk   CVE-2021-3449   Medium    
+libssl1.1     1.1.1c-r0  1.1.1k-r0  apk   CVE-2021-3450   High      
+musl          1.1.22-r2  1.1.22-r3  apk   CVE-2019-14697  Critical  
+musl          1.1.22-r2  1.1.22-r4  apk   CVE-2020-28928  Medium    
+musl-utils    1.1.22-r2  1.1.22-r3  apk   CVE-2019-14697  Critical  
+musl-utils    1.1.22-r2  1.1.22-r4  apk   CVE-2020-28928  Medium    
+nghttp2-libs  1.38.0-r0  1.39.2-r0  apk   CVE-2019-9511   High      
+nghttp2-libs  1.38.0-r0  1.39.2-r0  apk   CVE-2019-9513   High      
+nghttp2-libs  1.38.0-r0  1.39.2-r1  apk   CVE-2020-11080  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42374  Medium    
+ssl_client    1.30.1-r2             apk   CVE-2021-42376  Medium    
+ssl_client    1.30.1-r2             apk   CVE-2021-42378  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42379  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42380  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42381  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42382  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42384  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42385  High      
+ssl_client    1.30.1-r2             apk   CVE-2021-42386  High      
+ssl_client    1.30.1-r2             apk   CVE-2022-28391  High      
+ssl_client    1.30.1-r2  1.30.1-r5  apk   CVE-2021-28831  High      
+zlib          1.2.11-r1             apk   CVE-2018-25032  High      
+zlib          1.2.11-r1             apk   CVE-2022-37434  Critical  
